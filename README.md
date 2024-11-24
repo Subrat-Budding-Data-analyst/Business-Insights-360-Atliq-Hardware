@@ -1,6 +1,6 @@
  ## 💎Business-Insights-360-Atliq-Hardware💎  
 
-            🟡🟤🟣🟠🟢
+    🟡🟤🟣🟠🟢
 
  ## 1️⃣ Overview:
  
