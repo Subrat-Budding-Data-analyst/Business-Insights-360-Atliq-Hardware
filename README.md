@@ -97,42 +97,42 @@ This project followed the Snowflake Schema for efficient data organization. Good
 
 The dashboard consists of multiple views for stakeholder use:
 
-🟢Home View: Central navigation hub.
+      🟢Home View: Central navigation hub.
 
-🟢Finance View: Financial insights.
+      🟢Finance View: Financial insights.
 
-🟢Sales View: Sales performance metrics.
+      🟢Sales View: Sales performance metrics.
 
-🟢Marketing View: Marketing effectiveness.
+      🟢Marketing View: Marketing effectiveness.
 
-🟢Supply Chain View: Operational efficiencies.
+      🟢Supply Chain View: Operational efficiencies.
 
-🟢Executive View: High-level KPIs for decision-makers.
+      🟢Executive View: High-level KPIs for decision-makers.
 
 
 ## Key Business Metrics and Terms:
 
-🟠Gross Margin (GM%)
+      🟠Gross Margin (GM%)
 
-🟠Net Sales & Net Profit
+      🟠Net Sales & Net Profit
 
-🟠COGS (Cost of Goods Sold)
+      🟠COGS (Cost of Goods Sold)
 
-🟠YTD (Year-to-Date)
+      🟠YTD (Year-to-Date)
 
-🟠YTG (Year-to-Go)
+      🟠YTG (Year-to-Go)
 
 ## Project Outcomes:
 
 The Power BI report enables:
 
-🟡Data-driven decision-making across departments.
+      🟡Data-driven decision-making across departments.
 
-🟡Stakeholders to answer "why" questions with actionable insights.
+      🟡Stakeholders to answer "why" questions with actionable insights.
 
-🟡Continuous improvement in efficiency and profitability.
+      🟡Continuous improvement in efficiency and profitability.
 
-🟡By adopting Power BI, AtliQ Hardware is now positioned to compete effectively in a data-driven world.
+      🟡By adopting Power BI, AtliQ Hardware is now positioned to compete effectively in a data-driven world.
 
 
 GitHub Repository Link: [Add Your Link Here]
