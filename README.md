@@ -1,6 +1,7 @@
-## 💎Business-Insights-360-Atliq-Hardware💎  
+ ## 💎Business-Insights-360-Atliq-Hardware💎  
 
-🥇🟡🟤🟣🟠🟢💎
+            🟡🟤🟣🟠🟢
+
  ## 1️⃣ Overview:
  
 AtliQ Hardware, a rapidly growing global company specializing in computer and accessory sales, decided to harness the power of Power BI for data analytics. This initiative aims to surpass competitors, make data-driven decisions, and address stakeholders' questions across finance, sales, marketing, and supply chain.
