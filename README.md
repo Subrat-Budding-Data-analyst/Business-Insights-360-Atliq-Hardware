@@ -11,28 +11,36 @@ Dashboard Link: [Business Insight 360]
 ## Tech Stack Used:
 
 🟤Power BI Desktop
+
 🟤Excel
+
 🟤DAX Language
+
 🟤DAX Studio (for report optimization)
+
 🟤Project Charter File
 
 ## Key Power BI Techniques Learned:
 
-Formulating critical questions before starting a project
-Creating calculated columns and measures using DAX
-Building effective data models
-Implementing dynamic featureslike:
-Bookmarks for toggling visuals
-Page navigation with buttons
-Dynamic titles based on applied filters
-Using KPIs and conditional formatting (icons, background color)
-Validating data accuracy and integrity
-Using the DIVIDE function to avoid division by zero errors
-Crafting a Date Table with M Language
-Leveraging Power BI Services for:
-Publishing reports.
-Setting up auto-refresh with personal gateways.
-Creating apps for collaboration and access control.
+🟣Formulating critical questions before starting a project
+🟣Creating calculated columns and measures using DAX
+🟣Building effective data models
+
+🟣Implementing dynamic features like:
+       ▶️Bookmarks for toggling visuals
+       ▶️Page navigation with buttons
+       ▶️Dynamic titles based on applied filters
+🟣Using KPIs and conditional formatting (icons, background color)
+🟣Validating data accuracy and integrity
+🟣Using the DIVIDE function to avoid division by zero errors
+🟣Crafting a Date Table with M Language
+
+🟣Leveraging Power BI Services for:
+       ▶️Publishing reports.
+       ▶️Setting up auto-refresh with personal gateways.
+       ▶️Creating apps for collaboration and access control.
+
+
 Business Context
 AtliQ Hardware has expanded significantly, operating across the globe through Retailers, Direct Channels, and Distributors. However, the company faced losses in America due to decisions based on intuition and rudimentary Excel analysis. With competitors excelling in analytics, AtliQ needed a robust data analytics team and tools like Power BI to secure their foothold in the industry.
 
