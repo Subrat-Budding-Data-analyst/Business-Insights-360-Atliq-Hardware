@@ -8,7 +8,6 @@ AtliQ Hardware, a rapidly growing global company specializing in computer and ac
 
 Dashboard Link: [Business Insight 360](https://app.powerbi.com/view?r=eyJrIjoiNGNhNzVjNmItNzgzNC00ODAyLWFmMjMtOTNiYmI5ZGRhNDEwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-
 ## Tech Stack Used:
 
 🟤Power BI Desktop
