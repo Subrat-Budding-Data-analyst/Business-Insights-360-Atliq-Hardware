@@ -6,7 +6,7 @@
  
 AtliQ Hardware, a rapidly growing global company specializing in computer and accessory sales, decided to harness the power of Power BI for data analytics. This initiative aims to surpass competitors, make data-driven decisions, and address stakeholders' questions across finance, sales, marketing, and supply chain.
 
-Dashboard Link: [Business Insight 360]
+Dashboard Link: [Business Insight 360](https://app.powerbi.com/view?r=eyJrIjoiNGNhNzVjNmItNzgzNC00ODAyLWFmMjMtOTNiYmI5ZGRhNDEwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 
 ## Tech Stack Used:
