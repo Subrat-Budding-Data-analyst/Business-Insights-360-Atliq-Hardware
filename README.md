@@ -135,6 +135,3 @@ The Power BI report enables:
       🟡By adopting Power BI, AtliQ Hardware is now positioned to compete effectively in a data-driven world.
 
 
-GitHub Repository Link: [Add Your Link Here]
-
-Full Report File: [Add Your Link Here]
